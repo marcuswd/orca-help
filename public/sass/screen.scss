@@ -10,10 +10,7 @@ a:hover, a:visited, a:active, a:focus{
 	text-decoration: none;
 }
 
-/* Date time picker */
-@import "datepicker3";
-/* Date time picker */
-
-/* File Input */
-@import "fileinput";
-/* File Input */
+.login-topo{
+	float: right;
+	margin-top: 15px
+}
