@@ -1,0 +1,20 @@
+{
+  "name": "Orça Web",
+  "description": "Sistema de Controle de Orçamentoss",
+  "version": "0.0.1",
+  "homepage": "https://github.com/marcuswd/orca-help",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "~1.4",
+    "angular-mocks": "~1.3.0",
+    "bootstrap": "~3.1.1",
+    "angular-route": "~1.3.0",
+    "angular-resource": "~1.3.0",
+    "jquery": "~2.1.1",
+    "angular-animate": "~1.3.0"
+  },
+  "resolutions": {
+    "angular": "1.4"
+  }
+}
