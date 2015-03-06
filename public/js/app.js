@@ -14,8 +14,12 @@ budgetHelpApp.config(['$routeProvider',
                 templateUrl: 'partial/logar.html',
                 controller: 'BudgetLoginCtrl'
             }).
+            when('/home', {
+                templateUrl: 'partial/home.html',
+                controller: 'BudgetHomeCtrl'
+            }).
             otherwise({
-                redirectTo: '/'
+                redirectTo: '/home'
             })
     }
 ]);

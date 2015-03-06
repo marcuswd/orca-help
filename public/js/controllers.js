@@ -12,4 +12,9 @@ budgetHelpControllers.controller('BudgetSolicitationCtrl',['$scope',
 budgetHelpControllers.controller('BudgetLoginCtrl',['$scope',
     function($scope){
 
-    }]);
+}]);
+
+budgetHelpControllers.controller('BudgetHomeCtrl',['$scope',
+    function($scope){
+
+}]);
