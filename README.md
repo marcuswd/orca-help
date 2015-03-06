@@ -17,6 +17,5 @@
 	<li><a href="http://nodejs.org/">Node.js</a></li>
 	<li>HTML / CSS / JavaScript</li>
 	<li><a href="http;//www.phonegap.com">PhoneGap</a></li>
-	<li><a href="https://github.com/eternicode/bootstrap-datepicker/">bootstrap-datepicker.js</a></li>
-	<li><a href="https://github.com/kartik-v/bootstrap-fileinput">bootstrap-fileinput</a></li>
+	<li><a href="http://angular-ui.github.io">Angular Bootstrap</li>
 </ul>
